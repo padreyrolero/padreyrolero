@@ -15,8 +15,8 @@ tagline:
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
+  name:           'Padre y Rolero'
+  url:            
 
 paginate:         5
 # paginate_path:    '/page:num'
@@ -33,3 +33,4 @@ sidebar_home_link:  true
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
+disqus: padrerolero
