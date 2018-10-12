@@ -2,6 +2,7 @@
 layout: post
 title: Adios Google +
 author: Padre Rolero
+comments: true
 ---
 Hola a todos, hoy he conocido la noticia del cierre de Google+. Dicho cierre se producirá en Agosto del año que viene según ha avisado Google. Esta red social que al parecer está en desuso era según mi entender
 y sensación, núcleo de encuentro de gran parte de la comunidad Rolera online. Hay muchas comunidades en las que se creaban diversos grupos de juego y desde mi punto de vista estaba relativamente activa. Pero esto
