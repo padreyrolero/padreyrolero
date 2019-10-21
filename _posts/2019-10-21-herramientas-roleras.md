@@ -8,6 +8,7 @@ category: Podcasts
 
 Hola a todos y a todas, nos volvemos a ver por aquí con un nuevo episodio de Padre y rolero. En el podcast de hoy os voy a hablar de que herramientas voy a utilizar en la partida que dirigiré en el club de rol Carcosa. Espero os guste el contenido y que os sea de utilidad. Si os apetece que amplie información sobre lo que comento en el podcast, por favor decidmelo. Os dejo los enlaces tanto para maptool modificador de voz y tabletop audio.
 
+
 Tabletop audio:
 
 https://tabletopaudio.com/ tambien con aplicación en android
@@ -52,4 +53,4 @@ License: CC BY (http://creativecommons.org/licenses/by/4.0/)
 
 Disfrutad de vuestra familia, amigos y del rol ;)
 
-
+<iframe src="https://anchor.fm/padreyrolero/embed/episodes/Herramientas-roleras-e7sofr" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
