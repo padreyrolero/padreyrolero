@@ -38,12 +38,12 @@ Otro recurso muy sencillo de introducir en tus partidas es la iluminación y no,
 Una de las cosas que me apetecía recrear era el aterrizaje de una nave y la entrada en la atmosfera. Para ello con el efecto de luz del que acabo de hablar y unos efectos de sonido que monté que puedes escuchar a continuación le di un poco tensión a esta escena. A continuación puedes escuchar el efecto de nave aterrizando que creé para esa escena:
 
 
-<audio src="https://padreyrolero.github.io/assets/audios/Complementos/naveaterrizando.mp3" controls preload></audio>
+<audio src="https://padreyrolero.github.io/padreyrolero/assets/audios/Complementos/naveaterrizando.mp3" controls preload></audio>
 
 Por último y a modo de prueba os me quiero estrenar en esta entrada del blog con un vídeo con una breve muestra de cómo utilicé la herramienta Maptool que os comenté en el podcast
 
 
 
-<iframe width="420" height="315" src="https://padreyrolero.github.io/assets/videos/maptool.mp4" frameborder="0" allowfullscreen> </iframe>
+<iframe width="420" height="315" src="https://padreyrolero.github.io/padreyrolero/assets/videos/maptool.mp4" frameborder="0" allowfullscreen> </iframe>
 
 Espero que te haya gustado la entrada y ya sabes que cualquier tipo de feedback es bienvenido, hasta la siguiente entrada.
