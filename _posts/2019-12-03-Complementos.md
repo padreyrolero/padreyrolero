@@ -26,7 +26,7 @@ Y ahora con fotos del interior de la libreta:
 
 Y la contraportada de la libreta:
 
-<img src="https://padreyrolero.github.io/padreyrolero/Assets/img/Complementos/agenda2.jpg">
+<img src="https://padreyrolero.github.io/padreyrolero/assets/img/Complementos/agenda2.jpg">
 
 Me hubiera gustado haberle dedicado más tiempo pero al final no pudo ser. El resultado fue bastante aparente y a los jugadores creo que les gustó, este tipo de detalles aunque te puedan robar tiempo, aportan a que todos nos metamos un poco más en la sesión y es uno de los procesos que más disfruto a la hora de hacer crear una partida. 
 Aparte de la libreta introduje varios elementos más y alguno que falta para la última sesión y que pondré en una futura entrada cuando la partida haya terminado no vaya a ser que algún jugador lea este artículo y se chafe la sorpresa. 
