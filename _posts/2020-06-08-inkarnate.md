@@ -1,8 +1,8 @@
----
-layout: post
-title: Usando Inkarnate
-author: Padre y Rolero
-category: Rol
+---                                                                     
+layout: post                                                                    
+title: Inkarnate							
+author: Padre Rolero                                                            
+category: Rol                                                              
 ---
 Hola a todos y a todas. Vuelvo a escribir por aquí y poco a poco voy recuperando algo de ritmo en Padre y Rolero. Hoy quería hablarte de una de las herramientas que estoy
 usando más con la campaña de "pequeños roleros" que es Inkarnate. Una página en la que puedes crear mapas para tus partidas con una sencillez asombrosa y unos resultados
