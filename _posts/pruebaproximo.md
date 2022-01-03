@@ -1,7 +1,7 @@
 ---                                                                             
 layout: post                                                                    
-title: Cyberpunk Vieja Escuela							
+title: 						
 author: Padre Rolero                                                            
-category: Podcasts                                                              
+category:                                                               
 ---
 Prueba
