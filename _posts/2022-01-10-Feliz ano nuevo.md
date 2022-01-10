@@ -8,4 +8,4 @@ Feliz año nuevo a todos y a todas. Se que llego tarde, pero es que voy tarde en
 
 Como ya he comentado en alguna que otra entrada, me cuesta centrarme. Haciendo un poco de introspección tras la última partida que dirigí online a un grupo de amigos, una vez más me dí cuenta del gran problema de organización que tengo. Ahondando en este dilema de una manera más profunda creo que es un problema de querer hacer muchisimas cosas pero sin llegar a hacer niguna realmente bien. Esto, que ya pensé cuando dirigí mi partida de Cyberpunk Vieja Escuela, pero gracias a la partida de Vampiro que estoy jugando y muy bien dirigida por mi amigo Rafa, me hizo reflexionar en que muchas veces menos es más. Que es mejor ir creciendo poco a poco y que los detalles son importantes. 
 
-Para esto como todo cada maestrillo tiene su librillo o que cada palo aguante su propia vela. Depende del punto de vista. 
+Para esto como en todo cada maestrillo tiene su librillo o cada palo aguanta su propia vela. Depende del punto de vista. Tengo muchas cosas pendientes pero ninguna sale adelante. Espero que pronto vaya sacando alguna cosilla, nos vemos en la siguiente entrada...   
