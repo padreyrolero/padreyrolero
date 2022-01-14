@@ -13,6 +13,6 @@ El tutorial como te explico en el vídeo es básico y para que sirva de entrada.
 Todo el contenido del vídeo es muy amateur, pero está creado por mí por lo que estoy muy contento de ello. Como siempre, te agradezco la atención y espero que sea de tu agrado. Te dejo con el vídeo, hasta la siguiente entrada...
 
 <div class="video-responsive">
-  <iframe src="https://www.youtube.com/embed/5FVL7WoATZ8" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/5FVL7WoATZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
