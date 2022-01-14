@@ -12,4 +12,7 @@ El tutorial como te explico en el vídeo es básico y para que sirva de entrada.
 
 Todo el contenido del vídeo es muy amateur, pero está creado por mí por lo que estoy muy contento de ello. Como siempre, te agradezco la atención y espero que sea de tu agrado. Te dejo con el vídeo, hasta la siguiente entrada...
 
-<iframe width="420" height="315" src="https://youtu.be/5FVL7WoATZ8" frameborder="0" allowfullscreen> </iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://youtu.be/5FVL7WoATZ8"></iframe>
+</div>
+
