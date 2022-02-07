@@ -1,10 +1,12 @@
 ---                                                                             
 layout: post                                                                    
-title:  Postpartidas							
+title:  Mandalorianos							
 author: Padre Rolero                                                            
-category: Podcasts                                                                  
+category: Podcasts                                                                   
 ---
-Hola a todos y a todas. Volvemos con un podcast más corto que de costumbre y para hablar de las postpartidas. En el te explicaré por encima qué tal fue la partida de Cyberpunk vieja escuela y qué es para mí esta parte tan molona de la afición. Si te apetece dejarme algún comentario no dudes en hacerlo en los comentarios de este podcast, en el blog padreyrolero.es o en cualquiera de las redes en las que estoy presente con el usuario @padreyrolero.
+Hola a todas y a todos. Aquí estoy para darte mi opinión más personal sobre estos personajes que se están ganando el corazoncito de los aficionados de Star Wars. 
+
+Espero que disfrutes tanto del podcast como lo he hecho yo al grabarlo.
 
 Todas las músicas de este podcast han sido creadas por mi para este proyecto tienen las siguientes licencias creative commons:
 
@@ -12,4 +14,4 @@ Todas las músicas de este podcast han sido creadas por mi para este proyecto ti
 
 Te dejo con el capítulo...
 
-<iframe src="https://anchor.fm/padreyrolero/embed/episodes/Postpartidas-e1ddesu" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/padreyrolero/embed/episodes/Mandalorianos-e1e2t0m" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
