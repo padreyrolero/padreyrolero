@@ -41,7 +41,7 @@ Lomo
 
 Fotos del interior en blanco y negro "premium"
 
-<img src="https://padreyrolero.github.io/padreyrolero/assets/img/SWredux/interior1.jpg"> <img src="https://padreyrolero.github.io/padreyrolero/assets/img/SWredux/interior2.jpg"> <img src="https://padreyrolero.github.io/padreyrolero/blob/assets/img/SWredux/interior3.jpg"> <img src="https://padreyrolero.github.io/padreyrolero/blob/assets/img/SWredux/interior4.jpg">
+<img src="https://padreyrolero.github.io/padreyrolero/assets/img/SWredux/interior1.jpg"> <img src="https://padreyrolero.github.io/padreyrolero/assets/img/SWredux/interior2.jpg"> <img src="https://padreyrolero.github.io/padreyrolero/blob/assets/img/SWredux/interior3.jpg"> <img src="https://padreyrolero.github.io/padreyrolero/assets/img/SWredux/interior4.jpg">
 
 Y una comparativa con la Caja de "Aventuras de en la Marca del Este":
 
