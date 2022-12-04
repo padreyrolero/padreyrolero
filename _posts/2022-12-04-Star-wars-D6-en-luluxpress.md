@@ -1,39 +1,52 @@
 ---                                                                     
 layout: post                                                                    
-title: Homenaje							
+title: Star Wars D6 redux en Lulu Xpress 							
 author: Padre Rolero                                                            
 category: Rol                                                              
 ---
-Uno de esos Domingos de limpieza en los que estás más nostálgico que de costumbre mientras estaba colocando y limpiando mis manuales roleros, volvía a lamentarme por todas aquellas lecturas pendientes. Como ahora estoy con Star Wars más a tope que de costumbre, de lo que hablaré en un podcast futuro al respecto, comencé a revisar cosillas viejas que tenía por aquí y por allá. Apareció ante mí lo que fue mi verdadero comienzo rolero, con lo que realmente me conecté con esta afición. Mi manual de Star Wars el juego de Rol, fotocopia de una fotocopia de una fotocopia, en un formato bastante regulero con dos páginas por hoja, en apaisado con una encuadernación que ha sufrido los devenires del tiempo.
+
+Hola a todos y todas. Estoy de vuelta con una pequeña reseña/explicación de mi primera impresión de un manual rolero en la plataforma Lulu Xpress. En esta entrada voy a intentar darte mis impresiones y los datos de esta impresión del manual Star Wars redux D6. Lo primero de todo agradecer el trabajo realizado por los integrantes del sitio https://www.swd6redux.net/ en el que hay gran cantidad de material que ha continuado con el legado de ese fantástico juego de West End Games publicado allá por los años 80. Como ya expliqué en la entrada "homenaje"<http://www.padreyrolero.es/rol/2020/09/18/homenaje.html> con este juego comencé mi andadura con esta afición y siempre me quedó la espinita de tenerlo en formato físico. 
+
+Como habrás podido adivinar por entradas y podcast soy un fan declarado de Star Wars y el tener una maltratada versión fotocopiada del añejo manual de Star Wars de West end Games era algo que quería subsanar con el tiempo. Tras el visionado de la serie "Andor" me volvió a picar muy fuerte por Star Wars y cómo no empezar a especular con dirigir algo. Me interesé por los manuales creados por Fantasy Flight Games, es más tengo la caja de inicio del despertar de la fuerza, la cual me gustó mucho. Leí el sistema y me gustó pero opté por volver a los orígenes y volver a leer el Star Wars D6. 
+
+Conocía la página Star Wars Redux de hace tiempo. Ya había descargado algunos de sus manuales pero no profundicé mucho en ellos. Hasta que espoleado por ver la seríe Andor y volver a revisitar otras de las series del "universo Filoni" le dí una oportunidad y exploré lo que ofrecía esta versión ampliada, actualizada y revisada del Star Wars D6, para ser más concreto el "Manual Básico: Star Wars D6 2ª Edición REUP Mark II (Revisada, Expandida y Actualizada, en Castellano)", tal y como sale referenciado en su página de descargas. 
+
+Recuerdo que anteriormente revisé otros manuales mucho más livianos, pero al descargar este vi la nada desdeñable cantidad de 542 páginas, vamos un tochazo impresionante. Recomiendo este manual y es posible que haga un podcast del mismo. Creo que amplía bastante la experiencia del manual original con expansiones de reglas y multitud de consejos para la directora de juego. 
+
+Dejando atrás toda esta "chapa" que te acabo de dar con mis cosas, quiero ser lo más práctico posible y compartir mi experiencia con la impresión del manual en la plataforma Lulu Xpress. Plataforma que no conocía, las pocas cosas que había imprimido habían sido en Lulu y siempre manuales ya preparados para Lulu por la fantástica comunidad de Telegram de Vieja Escuela <https://t.me/vieja_escuela>. Desconozco si Lulu Xpress tiene que ver algo con Lulu, imagino que por el nombre si pero la verdad es algo que no he investigado mucho y para mí carece de interés. El caso es que al decidirme a imprimirlo elegí primero la plataforma Lulu, pero al subir el fichero me daba gran cantidad de incompatibilidades y no me dejaba de finalizar el proceso para imprimirlo. Busqué en youtube tutoriales de como imprimir libros en Lulu y me topé con esta gran ayuda del canal de José Lozano: 
+
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=1cl293QZhNg" frameborder="0" allowfullscreen> </iframe><> 
+
+En este primer vídeo nos habla de Lulu Xpress y de que es una plataforma alternativa a Lulu. También nos dice que no es tan "esquisita" con los PDFs lo cual estoy de acuerdo por que con el PDF de Star Wars Redux sólo tuve una pega que te descubriré más adelante. En el vídeo también explica como crear la portada de una manera sencilla y que a mí me ha funcionado a las mil maravillas. 
+
+El pequeño problema que me presentaba Lulu Xpress al subir el fichero era que las imágenes eran de alta calidad y que no se podían imprimir en calidad standard. Mi primera idea era imprimir el manual todo en color, pero al tener que hacerlo en la calidad "premium" el coste era exagerado 90€. Probé en blanco y negro "premium" y ya bajó a unos razonable 40€ con gastos de envío incluidos. Siguiendo las instrucciones de José Lozano, hice mi portada con powerpoint y luego convirtiéndola a PDF para subirla. Te dejo aquí el fichero con el PDF de la portada: "https://padreyrolero.github.io/padreyrolero/assets/img/SWredux/portada_starwars_buena.pdf"
+
+Una vez subida la portada seleccioné las siguientes opciones que te pongo abajo:
+
+<img src="https://github.com/padreyrolero/padreyrolero/blob/9fc92d0d4d5f6ce666e81c46082af4af4a0029d6/assets/img/SWredux/caracteristicas.PNG">
+
+Y después ordenar que lo imprimieran, tardó unos 11 días en llegar a la oficina de correos. Y este es el aspecto que tiene:
+
+Portada a color en tapa blanda
+
+<img src="https://github.com/padreyrolero/padreyrolero/blob/9fc92d0d4d5f6ce666e81c46082af4af4a0029d6/assets/img/SWredux/portada.jpg">
+
+Contraportada
+
+<img src="https://github.com/padreyrolero/padreyrolero/blob/9fc92d0d4d5f6ce666e81c46082af4af4a0029d6/assets/img/SWredux/contraportada.jpg">
+
+Lomo
+
+<img src="https://github.com/padreyrolero/padreyrolero/blob/9fc92d0d4d5f6ce666e81c46082af4af4a0029d6/assets/img/SWredux/lomo.jpg">
+
+Fotos del interior en blanco y negro "premium"
+
+<img src="https://github.com/padreyrolero/padreyrolero/blob/9fc92d0d4d5f6ce666e81c46082af4af4a0029d6/assets/img/SWredux/interior1.jpg"> <img src="https://github.com/padreyrolero/padreyrolero/blob/9fc92d0d4d5f6ce666e81c46082af4af4a0029d6/assets/img/SWredux/interior2.jpg"> <img src="https://github.com/padreyrolero/padreyrolero/blob/9fc92d0d4d5f6ce666e81c46082af4af4a0029d6/assets/img/SWredux/interior3.jpg"> <img src="https://github.com/padreyrolero/padreyrolero/blob/9fc92d0d4d5f6ce666e81c46082af4af4a0029d6/assets/img/SWredux/interior4.jpg">
+
+Y una comparativa con la Caja de "Aventuras de en la Marca del Este":
+
+<img src="https://github.com/padreyrolero/padreyrolero/blob/9fc92d0d4d5f6ce666e81c46082af4af4a0029d6/assets/img/SWredux/comparativa.jpg">
+
+En definitiva he acabado muy contento con el resultado. Por cierto no he comentado que el manual pesa 1992 grms, leerlo te podría convalidar alguna que otra serie de pesas en el gimnasio. Hasta aquí estas reseña de la impresión de este gran manual rolero. Gracias por tu atención y nos vemos en la siguiente entrada..
 
 
-Será que soy un sentimental, o que sufro de síndrome de Diógenes, pero no me deshice de ese manual en su momento y ahora aunque tengo mayor facilidad para comprar material rolero, me gusta seguir teniendo ese fetiche que me transporta a tiempos ya cada vez más lejanos. Toda esta perorata para poner unas cuantas fotos de un manual fotocopiado, pero es algo más que eso, espero que para unos sea una mirada a un pasado del que guardan gratos recuerdos y para otros una pequeña visita al museo.
-
-
-Con esto comenzamos algunos y algunas. Me apetecía hacerle este pequeño homenaje a mi primer manual rolero. Había pensado hacer un hastag en twitter para rendirles homenaje a nuestros manuales fotocopiados, así que nada si te apetece pues le echas una foto o pones algún comentario en twitter con el hastag #fotocopiarolera y así agradecemos las incontables horas que nos han regalado.
-
-En esta imagen podemos disfrutar del estado añejo de este fantástico volumen
-
-<img src="https://padreyrolero.github.io/padreyrolero/assets/img/homenaje/starwars1.jpg">
-
-No recordaba a la Princesa y a Han tan morenos ;)
-
-<img src="https://padreyrolero.github.io/padreyrolero/assets/img/homenaje/starwars2.jpg">
-
-La estrella de la muerte no parece tan evidente aquí
-
-<img src="https://padreyrolero.github.io/padreyrolero/assets/img/homenaje/starwars3.jpg">
-
-Parece que aquí se han librado unas cuantas aventuras...
-
-<img src="https://padreyrolero.github.io/padreyrolero/assets/img/homenaje/starwars4.jpg">
-
-Contraportada espartana sin muchas florituras
-
-<img src="https://padreyrolero.github.io/padreyrolero/assets/img/homenaje/starwars5.jpg">
-
-En un intento de complementar el podcast de Milanosfera ¿Poca letra y mucho dibujo? una pequeña muestra de dónde venimos. La afición ha evolucionado y eso en mí humilde opinión es algo bueno, puesto que esos cambios dotan de vida a todo esto de los juegos de rol.  Estoy seguro que en aquella época también habríamos disfrutado de manuales tan preciosistas como los que se ven hoy en las estanterías, pero he de decir que gozo como un marranete releyendo manuales que a más de uno de los nuevos jugadores de hoy probablemente les parezcan feos y difíciles de leer. Creo que es más una cuestión generacional, aunque sigue uniéndonos lo fundamental de esto que es la propia afición de vivir historias en mundos que existen tanto en esos libros fotocopiados con sistemas en los que para hacer una acción has de tirar miles de dados, como en otros con ilustraciones tan evocadoras y sistemas "narrativos".
-
-Disfrutad de nuestra afición (ojo que uso el imperativo)
-
-He hablado.
