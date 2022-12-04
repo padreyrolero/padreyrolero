@@ -23,29 +23,29 @@ El pequeño problema que me presentaba Lulu Xpress al subir el fichero era que l
 
 Una vez subida la portada seleccioné las siguientes opciones que te pongo abajo:
 
-<img src="https://github.com/padreyrolero/assets/img/SWredux/caracteristicas.PNG">
+<img src="https://padreyrolero.github.io/padreyrolero/assets/img/SWredux/caracteristicas.PNG">
 
 Y después ordenar que lo imprimieran, tardó unos 11 días en llegar a la oficina de correos. Y este es el aspecto que tiene:
 
 Portada a color en tapa blanda
 
-<img src="https://github.com/padreyrolero/assets/img/SWredux/portada.jpg">
+<img src="https://padreyrolero.github.io/padreyrolero/assets/img/SWredux/portada.jpg">
 
 Contraportada
 
-<img src="https://github.com/padreyrolero/assets/img/SWredux/contraportada.jpg">
+<img src="https://padreyrolero.github.io/padreyrolero/assets/img/SWredux/contraportada.jpg">
 
 Lomo
 
-<img src="https://github.com/padreyrolero/img/SWredux/lomo.jpg">
+<img src="https://padreyrolero.github.io/padreyrolero/img/SWredux/lomo.jpg">
 
 Fotos del interior en blanco y negro "premium"
 
-<img src="https://github.com/padreyrolero/assets/img/SWredux/interior1.jpg"> <img src="https://github.com/padreyrolero/assets/img/SWredux/interior2.jpg"> <img src="https://github.com/padreyrolero/blob/assets/img/SWredux/interior3.jpg"> <img src="https://github.com/padreyrolero/blob/assets/img/SWredux/interior4.jpg">
+<img src="https://padreyrolero.github.io/padreyrolero/assets/img/SWredux/interior1.jpg"> <img src="https://padreyrolero.github.io/padreyrolero/assets/img/SWredux/interior2.jpg"> <img src="https://padreyrolero.github.io/padreyrolero/blob/assets/img/SWredux/interior3.jpg"> <img src="https://padreyrolero.github.io/padreyrolero/blob/assets/img/SWredux/interior4.jpg">
 
 Y una comparativa con la Caja de "Aventuras de en la Marca del Este":
 
-<img src="https://github.com/padreyrolero/assets/img/SWredux/comparativa.jpg">
+<img src="https://padreyrolero.github.io/padreyrolero/assets/img/SWredux/comparativa.jpg">
 
 En definitiva he acabado muy contento con el resultado. Por cierto no he comentado que el manual pesa 1992 grms, leerlo te podría convalidar alguna que otra serie de pesas en el gimnasio. Hasta aquí estas reseña de la impresión de este gran manual rolero. Gracias por tu atención y nos vemos en la siguiente entrada..
 
