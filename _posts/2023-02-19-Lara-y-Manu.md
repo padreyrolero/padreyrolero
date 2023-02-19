@@ -2,7 +2,7 @@
 layout: post                                                                    
 title: Lara y Manu el podcast							
 author: Padre Rolero                                                            
-category: Podcast                                                              
+category: Podcasts                                                              
 ---
 Hola a todos y a todas. Vuelvo con una pequeña entrada para dar señales de vida y volver a darle un poco de cariño al blog.
 
