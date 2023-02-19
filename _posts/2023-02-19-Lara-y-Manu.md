@@ -1,13 +1,8 @@
 ---                                                                            
-
 layout: post                                                                    
-
-title:   Lara y Manu El podcast  (Cuentos para irse a dormir)                  
-
+title:  Lara y Manu El podcast  (Cuentos para irse a dormir)                  
 author: Padre Rolero                                                            
-
 category:   Podcast                                                            
-
 ---
 Hola a todos y a todas. Vuelvo con una pequeña entrada para dar señales de vida y volver a darle un poco de cariño al blog.
 
