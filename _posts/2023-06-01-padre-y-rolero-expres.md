@@ -1,10 +1,7 @@
 ---                                                                            
 layout: post                                                                    
-
 title:   Padre y Rolero Exprés                  
-
 author: Padre Rolero                                                            
-
 category: Podcast                                                            
 ---
 
