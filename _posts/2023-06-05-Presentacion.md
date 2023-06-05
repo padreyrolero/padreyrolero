@@ -1,7 +1,6 @@
 ---
 layout: post
-title:   Presentación Padre y Rolero exprés.
-author: Padre Rolero
+title:   Presentación 
 category: Podcast
 ---
 Aquí os dejo el primer podcast de padre y rolero exprés. Una pequeña introducción de lo que tengo pensado para el podcast. Si tienes alguna sugerencia te ruego la dejes en los comentarios, correo electrónico padreyrolero@gmail.com o a mi cuenta de mastodon padreyrolero@mastorol.es
