@@ -1,8 +1,8 @@
 ---                                                                            
 layout: post                                                                    
-title:   Ambientaciones que no me gustan                  
+title: Ambientaciones que no me gustan                  
 author: Padre Rolero                                                            
-category: Podcast                                                            
+category: podcast                                                            
 ---
 Hola a todos y a todas. Bueno primera semana y consigo publicar podcast. Hoy os traigo una pequeña reflexión sobre jugar a ambientaciones que no me gustan, sobre una experiencia que tuve este viernes. Estoy empezando con este mini podcast y que espero vaya tomando forma según voy grabando episodios.
 
