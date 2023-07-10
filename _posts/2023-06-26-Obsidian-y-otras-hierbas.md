@@ -2,7 +2,7 @@
 layout: post
 title: Obsidian y otras hierbas
 author: Padre Rolero
-category: podcast
+category: Podcasts
 ---
 Hey qué tal chavalada? Esta semana os traigo una pequeña reflexión sobre dónde escribo mis partidas. Podcast cortito y al pie.
 
