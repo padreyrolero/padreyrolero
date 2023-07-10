@@ -2,7 +2,7 @@
 layout: post
 title: Toneladas de rol
 author: Padre Rolero
-category: podcast
+category: Podcasts
 ---
 Hey qué tal chavalada? En el podcast de esta semana hablo sobre la estantería y lo que me produce verla llena de material rolero sin leer. También de mi última adquisición "1984 Toughtcrime"
 
