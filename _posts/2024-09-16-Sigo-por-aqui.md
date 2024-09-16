@@ -9,7 +9,8 @@ Hola a todos y a todas. Lo prometido es deuda y vuelvo a publicar un podcast des
 Os dejo por aquí el enlace al Verkami de Aventuras en Roluria: https://www.verkami.com/projects/36187-aventuras-en-roluria
 Además, el enlace a la página de la marca del este donde se muestra Corona de sal: https://lamarcadeleste.com/2024/08/corona-de-sal.html
 Sin más os dejo por aquí el podcast:
-https://podcasters.spotify.com/pod/show/padreyrolero/episodes/Sigo-por-aqui-e2oe5sj 
+
+<iframe src="https://www.ivoox.com/player_ej_133845102_6_1.html?c1=4c8ce4" width="100%" height="200" frameborder="0" allowfullscreen="" scrolling="no" loading="lazy"></iframe>
 
 
 
