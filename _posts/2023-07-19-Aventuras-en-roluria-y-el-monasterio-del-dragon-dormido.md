@@ -2,7 +2,7 @@
 layout: post
 title: Aventuras en Roluria y el monasterio del dragón dormido.
 author: Padre Rolero
-category: podcast
+category: Podcasts
 ---
 **¿Qué tal chavalada? Una semana más aquí estoy para traerte reflexiones sobre movidas roleras y cosas que quiero compartir.**
 
