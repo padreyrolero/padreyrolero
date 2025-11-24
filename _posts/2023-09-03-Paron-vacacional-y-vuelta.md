@@ -2,7 +2,7 @@
 layout: post
 title: Parón vacacional y vuelta
 author: Padre Rolero
-category: podcast
+category: Podcasts
 ---
 Hola a todos y a todas.
 
