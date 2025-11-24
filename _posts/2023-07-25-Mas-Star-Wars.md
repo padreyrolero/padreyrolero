@@ -2,7 +2,7 @@
 layout: post
 title: Más Star Wars
 author: Padre Rolero
-category: podcast
+category: Podcasts
 ---
 
 Hola a todos y a todas. En el episodio de hoy os traigo algunas de las cosas con las que me estoy inspirando para la futura partida de Star Wars. Os hablo de algún comic y de la serie de libros sobre las facciones de Star Wars.
